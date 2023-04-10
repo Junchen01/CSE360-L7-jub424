@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
 # Open the file in read mode
-with open('result2.txt', 'r') as f:
+with open('result7.txt', 'r') as f:
     # Initialize empty lists for x and y values
     x_values = []
     y_values = []
